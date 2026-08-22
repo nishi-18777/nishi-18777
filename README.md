@@ -21,7 +21,13 @@
 
 ## 💻 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nishidhiman_?cache=0)](https://leetcode.com/u/nishidhiman_/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-85%20Problems%20Solved-orange?logo=leetcode\&logoColor=white)](https://leetcode.com/u/nishidhiman_/)
+
+**85 Problems Solved**
+
+* 🟢 Easy: 44
+* 🟡 Medium: 38
+* 🔴 Hard: 3
 
 🔗 [View My LeetCode Profile](https://leetcode.com/u/nishidhiman_/)
 
