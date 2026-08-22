@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nishi Dhiman 👋
 
-<!--
-**nishi-18777/nishi-18777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 B.Tech Computer Science Student
+- 💻 Full Stack Development
+- 🧩 Currently improving my DSA skills
+- 🚀 Building projects and solving coding problems
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java
+- C++
+- Python
+- JavaScript
+- HTML
+- CSS
+- React
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 LeetCode
+
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=Kunal_dhiman)
+
+## 📊 Coding Profiles
+
+- 🔥 LeetCode: https://leetcode.com/u/Kunal_dhiman/
+- 💻 GitHub: https://github.com/nishi-18777
+
+## 🚀 Projects
+
+- 🌐 Travel Blog Website
+- 🤖 Smart Interview Preparation Portal
+- 💡 Full Stack Web Projects
+
+---
+
+⭐ Thanks for visiting my profile!
