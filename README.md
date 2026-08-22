@@ -19,19 +19,11 @@
 
 ## 💻 LeetCode
 
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=Kunal_dhiman)
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=nishidhiman_)
 
-## 📊 Coding Profiles
-
-- 🔥 LeetCode: https://leetcode.com/u/Kunal_dhiman/
-- 💻 GitHub: https://github.com/nishi-18777
+🔗 [LeetCode Profile](https://leetcode.com/u/nishidhiman_/)
 
 ## 🚀 Projects
-
 - 🌐 Travel Blog Website
-- 🤖 Smart Interview Preparation Portal
+- 🤖 Resume Spark-interview portal
 - 💡 Full Stack Web Projects
-
----
-
-⭐ Thanks for visiting my profile!
