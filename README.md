@@ -21,7 +21,7 @@
 
 ## 💻 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nishidhiman_)](https://leetcode.com/u/nishidhiman_/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nishidhiman_?cache=0)](https://leetcode.com/u/nishidhiman_/)
 
 🔗 [View My LeetCode Profile](https://leetcode.com/u/nishidhiman_/)
 
@@ -29,7 +29,7 @@
 
 ### 🌐 Travel Blog Website
 
-A travel blog website focused on exploring destinations, travel information, and an engaging user experience.
+A travel blog website focused on exploring destinations and providing an engaging travel experience.
 
 **Technologies:** HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
 
@@ -41,7 +41,7 @@ A platform designed to connect students with mentors and make guidance and commu
 
 ### 🛒 Food Ordering Website
 
-A web-based food ordering project with features for browsing food items and managing orders.
+A web-based food ordering project for browsing food items and managing orders.
 
 **Technologies:** HTML, CSS, JavaScript
 
