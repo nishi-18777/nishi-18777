@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishi Dhiman
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=210&section=header&text=NISHI%20DHIMAN&fontSize=55&fontColor=ffffff&fontAlignY=40&font=Playfair%20Display" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=210&section=header&text=NISHI%20DHIMAN&fontSize=58&fontColor=ffffff&fontAlignY=45&font=Lobster" width="100%">
 </p>
 
 <p align="center">
