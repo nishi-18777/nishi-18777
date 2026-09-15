@@ -1,18 +1,32 @@
 # 👋 Hi, I'm Nishi Dhiman
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=200&section=header&text=NISHI%20DHIMAN&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%7C%20AI%2FML%20%7C%20Generative%20AI&descAlignY=62&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=210&section=header&text=NISHI%20DHIMAN&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%7C%20AI%2FML%20%7C%20GENERATIVE%20AI&descAlignY=63&descSize=17" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20Computer%20Science%20%26%20Engineering-7B2CBF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Chitkara%20University-5A189A?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-6A0DAD?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Generative%20AI-8338EC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/B.E.%20COMPUTER%20SCIENCE%20%26%20ENGINEERING-0F766E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CHITKARA%20UNIVERSITY-115E59?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-0D9488?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GENERATIVE%20AI-14B8A6?style=for-the-badge">
 </p>
 
 <p align="center">
-  📍 India &nbsp; • &nbsp; 💻 Computer Science Student &nbsp; • &nbsp; 🤖 AI/ML Enthusiast
+  📍 <b>India</b> &nbsp; • &nbsp;
+  💻 <b>Computer Science Student</b> &nbsp; • &nbsp;
+  🤖 <b>AI/ML Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GITHUB-0F766E?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0D9488?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-115E59?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -55,11 +69,11 @@ I'm currently exploring how AI can be integrated into real-world applications wh
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Generative_AI-7B2CBF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6A0DAD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NumPy-0F766E?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-115E59?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-0D9488?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Generative_AI-14B8A6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0F766E?style=for-the-badge">
 </p>
 
 ### 🌐 Frontend Development
@@ -74,7 +88,7 @@ I'm currently exploring how AI can be integrated into real-world applications wh
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql">
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman">
@@ -84,14 +98,14 @@ I'm currently exploring how AI can be integrated into real-world applications wh
 
 ## 🧠 AI / ML Expertise
 
-| Area | Level |
-|---|---|
-| Generative AI | 🟣 Intermediate |
-| Prompt Engineering | 🟣 Intermediate |
-| Python & Data Tools | 🟣 Intermediate |
-| AI Applications | 🟡 Developing |
-| Machine Learning | 🟡 Developing |
-| AI Product Engineering | 🟡 Developing |
+| Domain | Proficiency | Focus |
+|---|---|---|
+| Generative AI | 🟢 Intermediate | Exploring AI-powered applications |
+| Prompt Engineering | 🟢 Intermediate | Prompt design and AI interaction |
+| Python Data Stack | 🟢 Intermediate | NumPy, Pandas and Matplotlib |
+| AI Applications | 🟡 Developing | Integrating AI into software |
+| Machine Learning | 🟡 Developing | Learning ML concepts and applications |
+| AI Product Engineering | 🟡 Developing | Combining AI with software products |
 
 ---
 
@@ -132,47 +146,34 @@ A weather application that provides weather information through a simple and use
 ## 💻 Coding & Problem Solving
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-0F766E?style=for-the-badge&logo=leetcode&logoColor=white">
 </p>
 
 I regularly practice **Data Structures & Algorithms** and problem solving through coding challenges.
+
+### 🧩 Areas I'm Practicing
+
+- Arrays
+- Strings
+- Hashing
+- Recursion
+- Searching
+- Sorting
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Problem Solving
 
 ---
 
 ## 🏆 Achievements
 
 - 🧠 Solved **100+ DSA problems on LeetCode**
-- 💻 Developed projects in AI, web development, and software engineering
+- 💻 Developed projects in AI, web development and software engineering
 - 🏅 Participated in **Hackfest 2026**
 - 👩‍💼 Serving as a **Discipline Executive in IEEE**
-- 📚 Completed certifications in AI, Generative AI, Cybersecurity, and Networking
-- 🌱 Continuously learning and improving technical skills
-
----
-
-## 📜 Certifications
-
-### 🟦 Google
-
-- **Foundations of Cybersecurity**
-- **Connect and Protect: Networks and Network Security**
-- **The Bits and Bytes of Computer Networking**
-- **IT Security: Defense against the Digital Dark Arts**
-- **Prompt Design in Vertex AI**
-
-### 🔵 Cisco
-
-- **Introduction to Cybersecurity**
-- **Introduction to Modern AI**
-
-### 🔴 Red Hat
-
-- **Red Hat System Administration I**
-- **Red Hat System Administration II**
-
-### 🟣 University of Maryland
-
-- **Cybersecurity for Everyone**
+- 📚 Completed certifications in AI, Generative AI, Cybersecurity and Networking
+- 🌱 Continuously developing technical and professional skills
 
 ---
 
@@ -182,15 +183,43 @@ I regularly practice **Data Structures & Algorithms** and problem solving throug
 
 **November 2025 – Present**
 
-Contributing to a technical student community while developing professional and leadership skills.
+Contributing to a technical student community while developing leadership, communication and teamwork skills.
 
-**Skills developed:**
+### Areas of Contribution
 
-- Leadership
-- Communication
-- Teamwork
-- Organization
-- Technical Community Engagement
+- Participating in IEEE activities and initiatives
+- Collaborating with students and technical communities
+- Supporting organizational activities
+- Working with peers on technology-focused initiatives
+- Developing leadership and communication skills
+
+**Skills:** Leadership • Communication • Teamwork • Organization
+
+---
+
+## 📜 Certifications
+
+### Google
+
+- **Foundations of Cybersecurity**
+- **Connect and Protect: Networks and Network Security**
+- **The Bits and Bytes of Computer Networking**
+- **IT Security: Defense against the Digital Dark Arts**
+- **Prompt Design in Vertex AI**
+
+### Cisco
+
+- **Introduction to Cybersecurity**
+- **Introduction to Modern AI**
+
+### Red Hat
+
+- **Red Hat System Administration I**
+- **Red Hat System Administration II**
+
+### University of Maryland
+
+- **Cybersecurity for Everyone**
 
 ---
 
