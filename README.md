@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishi Dhiman
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=220&section=header&text=𝓝𝓘𝓢𝓗𝓘%20𝓓𝓗𝓘𝓜𝓐𝓝&fontSize=55&fontColor=ffffff&fontAlignY=45" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=220&section=header&text=𝓷𝓲𝓼𝓱𝓲%20𝓭𝓱𝓲𝓶𝓪𝓷&fontSize=58&fontColor=ffffff&fontAlignY=45" width="100%">
 </p>
 
 <p align="center">
@@ -150,7 +150,9 @@ A weather application that provides weather information through a simple and use
 ## 💻 Coding & Problem Solving
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-0F766E?style=for-the-badge&logo=leetcode&logoColor=white">
+
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-0F766E?style=for-the-badge&logo=leetcode&logoColor=white">
+
 </p>
 
 I regularly practice **Data Structures & Algorithms** and problem solving through coding challenges.
