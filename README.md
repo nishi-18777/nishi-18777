@@ -23,9 +23,11 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GITHUB-0F766E?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
     <img src="https://img.shields.io/badge/LINKEDIN-0D9488?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/EMAIL-115E59?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
