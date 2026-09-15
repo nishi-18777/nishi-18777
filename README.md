@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nishi Dhiman
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=210&section=header&text=NISHI%20DHIMAN&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%7C%20AI%2FML%20%7C%20GENERATIVE%20AI&descAlignY=63&descSize=17" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=210&section=header&text=NISHI%20DHIMAN&fontSize=55&fontColor=ffffff&fontAlignY=40&font=Playfair%20Display" width="100%">
 </p>
 
 <p align="center">
@@ -12,8 +12,10 @@
 </p>
 
 <p align="center">
-  📍 <b>India</b> &nbsp; • &nbsp;
-  💻 <b>Computer Science Student</b> &nbsp; • &nbsp;
+  📍 <b>India</b>
+  &nbsp; • &nbsp;
+  💻 <b>Computer Science Student</b>
+  &nbsp; • &nbsp;
   🤖 <b>AI/ML Enthusiast</b>
 </p>
 
@@ -199,7 +201,7 @@ Contributing to a technical student community while developing leadership, commu
 
 ## 📜 Certifications
 
-### Google
+### 🟦 Google
 
 - **Foundations of Cybersecurity**
 - **Connect and Protect: Networks and Network Security**
@@ -207,17 +209,17 @@ Contributing to a technical student community while developing leadership, commu
 - **IT Security: Defense against the Digital Dark Arts**
 - **Prompt Design in Vertex AI**
 
-### Cisco
+### 🔵 Cisco
 
 - **Introduction to Cybersecurity**
 - **Introduction to Modern AI**
 
-### Red Hat
+### 🔴 Red Hat
 
 - **Red Hat System Administration I**
 - **Red Hat System Administration II**
 
-### University of Maryland
+### 🟣 University of Maryland
 
 - **Cybersecurity for Everyone**
 
